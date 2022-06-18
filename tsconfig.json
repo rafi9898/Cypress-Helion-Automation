@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                                 
+    "lib": ["dom","es6"],                                 
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "strict": true,                                
+    "skipLibCheck": true                                 
+  },
+
+  "include": [
+    "./cypress/support/commands.ts",
+    "./cypress/**/*.ts",
+    "./cypress/**/**.ts"
+  ]
+}

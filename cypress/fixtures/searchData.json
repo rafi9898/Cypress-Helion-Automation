@@ -1,0 +1,7 @@
+{
+  "searchValue": "testowanie oprogramowania",
+  "expectedCountInPopup": 5,
+  "firstBookTitle": "Testowanie oprogramowania. Podręcznik dla początkujących",
+  "incorrectSearchValue": "incorrectSearchValuedfgfdgdfgd",
+  "notFoundMessage": "Nie znaleziono"
+}

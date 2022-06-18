@@ -1,0 +1,21 @@
+{
+  "name": "helion-cypress",
+  "version": "1.0.0",
+  "description": "automation helion page via cypess + typescript",
+  "main": "index.js",
+  "scripts": {
+    "cypress-open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "helion",
+    "automation",
+    "typescript"
+  ],
+  "author": "Rafał Podraza",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.1.0",
+    "typescript": "^4.7.3"
+  }
+}
